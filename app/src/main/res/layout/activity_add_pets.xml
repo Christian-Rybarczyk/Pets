@@ -18,6 +18,7 @@
     <EditText
         android:id="@+id/edit_pet_name_entry"
         android:hint="@string/pet_hint"
+        android:padding="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
@@ -25,6 +26,7 @@
         android:id="@+id/button_add_pet"
         android:text="@string/add_pet_to_list"
         android:textSize="24sp"
+        android:padding="15dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
