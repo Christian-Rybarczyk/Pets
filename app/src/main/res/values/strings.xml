@@ -1,7 +1,4 @@
 <resources>
     <string name="app_name">Pets</string>
     <string name="fav_animals">Favorite Animals</string>
-    <string name="add_pets">Add your pets</string>
-    <string name="pet_hint">Enter your pet here: Ex: Dog</string>
-    <string name="add_pet_to_list">Add pet</string>
 </resources>
