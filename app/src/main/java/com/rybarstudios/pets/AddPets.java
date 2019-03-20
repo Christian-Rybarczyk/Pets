@@ -29,6 +29,7 @@ public class AddPets extends AppCompatActivity {
                 String animalName = mEditText.getText().toString();
                 Intent intent = new Intent(context, MainActivity.class);
                 intent.putExtra(Intent.EXTRA_TEXT, animalName);
+                startActivity(intent);
             }
         });
 
